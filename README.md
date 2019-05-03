@@ -1,4 +1,4 @@
-# Spirit_Balancer
+# bubble
 Spirit Level 
 Spirit Balancer is an instrument designed to indicate whether a surface is horizontal or vertical or 360 degree level. Its designed to test the surface is even. This Spirit Balancer app is simple, clear, easy to use and convenient mobile application that is compatible for most devices.  So, Plumbers, builders, handymen/women/ DIY enthusiasts, trade workers or anyone in the world are you tired of uneven surfaces? Tired of trying to find your spirit level? Then all you have to do is download the amazing Spirit Level today! With this app you can ensure every surface is perfectly straight, every job is straight.The incredible thing about this app is that it is capable of working offline and also portable! So you know the Spirit Balancer has got your back for whatever job at hand!!!
 
